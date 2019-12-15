@@ -1,0 +1,10 @@
+import sys
+import gym
+import numpy as np
+import itertools
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+%matplotlib inline
+plt.style.use('ggplot')
+np.set_printoptions(precision=3, linewidth=120)
